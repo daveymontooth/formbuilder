@@ -1,0 +1,2 @@
+INSERT INTO Form (id, name, json) VALUES(101, 'Sign Up', '{ "fields": [{ "label": "Email", "type": "email", "order": 1, "required": true },{ "label": "Password", "type": "password", "order": 2, "required": true }] }');
+INSERT INTO Form (id, name, json) VALUES(102, 'Log In', '{ "fields": [{ "label": "Email", "type": "email", "order": 1, "required": true },{ "label": "Password", "type": "password", "order": 2, "required": true }] }');
